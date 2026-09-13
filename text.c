@@ -1,6 +1,12 @@
-nclude<stdio.h>
+include<stdio.h>{
+	typedef struct{
+	int x;
+	double y;
+	}
+	int main(void){
 
-int main(void){
-printf("HELLO WORLD"/n);
+	}
+
+
 return 0;
 }
